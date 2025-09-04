@@ -1,0 +1,233 @@
+brand,km_driven,fuel,owner,selling_price
+Suzuki,60659,CNG,Second Owner,2641069
+Suzuki,20686,LPG,Second Owner,3079694
+Suzuki,106650,Diesel,Test Drive,506499
+Suzuki,107342,CNG,Second Owner,2037439
+Suzuki,58394,CNG,Third Owner,1304832
+Suzuki,160098,CNG,Test Drive,465908
+Suzuki,123212,CNG,Second Owner,579311
+Suzuki,86273,Diesel,Second Owner,1354767
+Suzuki,170088,Diesel,Test Drive,3925571
+Suzuki,17491,Diesel,Fourth & Above Owner,3749043
+Suzuki,116042,CNG,Test Drive,3710677
+Suzuki,139601,CNG,First Owner,1583965
+Suzuki,167408,CNG,Second Owner,3683330
+Suzuki,35007,Diesel,Second Owner,2726692
+Toyota,190029,Diesel,First Owner,1622863
+Toyota,152663,CNG,Third Owner,3054694
+Toyota,120696,CNG,Second Owner,1888238
+Toyota,113481,Petrol,Test Drive,1288805
+Toyota,39044,LPG,Third Owner,3996096
+Toyota,106983,LPG,Fourth & Above Owner,525116
+Toyota,172775,CNG,Third Owner,3936236
+Toyota,120918,CNG,First Owner,3678624
+Toyota,189887,Petrol,Fourth & Above Owner,2861463
+Toyota,159519,Petrol,Fourth & Above Owner,2647021
+Honda,80329,CNG,Second Owner,3260979
+Honda,50997,LPG,Test Drive,1565511
+Honda,143696,LPG,Test Drive,502463
+Honda,21800,LPG,Test Drive,1623710
+Honda,47399,Diesel,Test Drive,2378518
+Honda,95042,Petrol,Test Drive,1274780
+Honda,146769,CNG,First Owner,1952921
+Honda,130767,Diesel,Test Drive,2551123
+Honda,5830,LPG,First Owner,412677
+Honda,196083,Petrol,First Owner,3540369
+Hyundai,165997,Petrol,Fourth & Above Owner,1306023
+Hyundai,160080,Diesel,First Owner,618087
+Hyundai,196093,Diesel,Second Owner,2144958
+Hyundai,43582,Petrol,Second Owner,2517424
+Hyundai,119442,Diesel,First Owner,525020
+Hyundai,56226,Petrol,Second Owner,2492228
+Hyundai,77646,Diesel,Third Owner,2174087
+Hyundai,12660,Petrol,Fourth & Above Owner,3642060
+Hyundai,119427,CNG,Test Drive,1162061
+Hyundai,152962,Petrol,Second Owner,1665848
+Hyundai,50718,Diesel,Second Owner,3996698
+Hyundai,36843,Diesel,First Owner,3301152
+Kia,6282,CNG,Test Drive,240639
+Kia,87690,LPG,Second Owner,2602228
+Kia,141710,CNG,Third Owner,2190604
+Kia,55629,LPG,First Owner,568468
+Kia,183276,Petrol,First Owner,3380795
+Kia,143973,CNG,Third Owner,2260191
+Kia,13382,Petrol,Test Drive,485935
+Kia,80985,CNG,Test Drive,1247561
+Kia,141848,Diesel,First Owner,2759044
+Kia,93731,Diesel,Fourth & Above Owner,2584357
+Kia,133360,Diesel,Second Owner,1709318
+Kia,54555,Petrol,Fourth & Above Owner,506262
+Kia,99070,CNG,Third Owner,696424
+Nissan,189920,CNG,Third Owner,3320542
+Nissan,24623,LPG,Test Drive,637175
+Nissan,77467,Petrol,Third Owner,3711464
+Nissan,153445,CNG,Fourth & Above Owner,1662127
+Nissan,123145,CNG,Second Owner,324460
+Nissan,52673,Diesel,Test Drive,3772500
+Nissan,136951,LPG,Third Owner,2778087
+Nissan,161462,CNG,Test Drive,947520
+Nissan,13364,LPG,First Owner,3117160
+Nissan,149580,CNG,Fourth & Above Owner,3334932
+Nissan,145568,LPG,Test Drive,345404
+Nissan,24218,CNG,First Owner,3301300
+Nissan,149094,Petrol,Fourth & Above Owner,1980462
+Mitsubishi,79782,LPG,Third Owner,1809443
+Mitsubishi,53148,CNG,First Owner,1602510
+Mitsubishi,153465,LPG,Third Owner,3627910
+Mitsubishi,170895,LPG,Second Owner,3108642
+Mitsubishi,31999,Diesel,Third Owner,2790106
+Mitsubishi,69830,CNG,Third Owner,2520692
+Mitsubishi,122651,Diesel,Test Drive,445887
+Mitsubishi,104098,LPG,Fourth & Above Owner,665876
+Mitsubishi,38158,CNG,Fourth & Above Owner,969216
+Mitsubishi,99240,Diesel,Second Owner,3164490
+Mitsubishi,91086,CNG,Third Owner,3264858
+Mitsubishi,61635,CNG,First Owner,1236464
+Mitsubishi,44113,Petrol,Test Drive,3892883
+Mitsubishi,20127,LPG,Third Owner,992958
+Mazda,107574,Petrol,Third Owner,2461855
+Mazda,36600,LPG,Second Owner,2957079
+Mazda,104237,Petrol,Fourth & Above Owner,1906414
+Mazda,195045,Diesel,Test Drive,429189
+Mazda,25950,CNG,Third Owner,2881410
+Mazda,142057,Diesel,Test Drive,1887506
+Mazda,11099,LPG,Second Owner,1391479
+Mazda,73848,LPG,Third Owner,2949071
+Mazda,190586,Petrol,Second Owner,1285651
+Mazda,90009,Petrol,First Owner,1773848
+Mazda,18069,Petrol,Third Owner,3060889
+Mazda,137108,Diesel,Test Drive,1443267
+Mazda,149932,Petrol,First Owner,3657218
+Mazda,190453,LPG,Second Owner,3426920
+Mazda,132511,Petrol,Fourth & Above Owner,2833240
+Chevrolet,134252,CNG,First Owner,2616115
+Chevrolet,98836,Diesel,Fourth & Above Owner,3778614
+Chevrolet,16101,Diesel,First Owner,2075728
+Chevrolet,165299,CNG,First Owner,403196
+Chevrolet,42147,Diesel,Second Owner,2725990
+Chevrolet,188431,Petrol,Second Owner,2702384
+Chevrolet,46206,Diesel,Second Owner,3744757
+Chevrolet,80484,Diesel,Fourth & Above Owner,3598304
+Chevrolet,63267,CNG,Third Owner,903271
+Chevrolet,27423,Petrol,First Owner,3202980
+Chevrolet,72227,Diesel,Third Owner,3506116
+Chevrolet,98337,Diesel,Test Drive,775696
+Ford,69226,CNG,Fourth & Above Owner,3251090
+Ford,16925,Petrol,Second Owner,3231303
+Ford,9019,Petrol,Third Owner,2812965
+Ford,167972,Diesel,First Owner,3500800
+Ford,198979,Diesel,First Owner,790358
+Ford,137434,LPG,Test Drive,404710
+Ford,170421,LPG,Test Drive,3539921
+Ford,45786,Diesel,Fourth & Above Owner,2416480
+Ford,183294,Petrol,Third Owner,3762857
+Ford,93586,Diesel,Third Owner,690851
+Ford,138281,LPG,First Owner,2132167
+Ford,22036,CNG,Third Owner,286104
+Ford,26237,CNG,First Owner,786200
+Volkswagen,83369,Diesel,Fourth & Above Owner,1364750
+Volkswagen,134148,LPG,Fourth & Above Owner,472070
+Volkswagen,26734,CNG,Test Drive,1975686
+Volkswagen,85318,CNG,First Owner,2774740
+Volkswagen,157508,Diesel,Fourth & Above Owner,2210240
+Volkswagen,161234,LPG,Test Drive,690895
+Volkswagen,121102,Petrol,Second Owner,595883
+Volkswagen,88761,Diesel,First Owner,369503
+Volkswagen,109981,CNG,Second Owner,303242
+Volkswagen,52964,Diesel,Fourth & Above Owner,565154
+Volkswagen,195663,Diesel,Fourth & Above Owner,1206616
+Volkswagen,23699,LPG,Third Owner,1125384
+Volkswagen,78592,CNG,Fourth & Above Owner,1615570
+Volkswagen,13032,CNG,Second Owner,2758145
+Tata,156800,Petrol,Second Owner,209970
+Tata,178883,Diesel,Test Drive,799723
+Tata,164196,Diesel,First Owner,2240387
+Tata,44092,LPG,Second Owner,1856497
+Tata,76083,LPG,Fourth & Above Owner,1263164
+Tata,115809,CNG,First Owner,1586320
+Tata,151241,LPG,First Owner,939057
+Tata,45034,Petrol,Second Owner,818860
+Tata,12081,LPG,Second Owner,3126419
+Tata,66288,Petrol,Third Owner,3697877
+Tata,60488,Petrol,Third Owner,2225293
+Tata,166791,LPG,First Owner,773329
+Tata,142898,CNG,Third Owner,2410221
+Mahindra,164677,Petrol,First Owner,2190243
+Mahindra,102397,Diesel,First Owner,1625721
+Mahindra,25332,Diesel,Fourth & Above Owner,2562765
+Mahindra,44517,LPG,Third Owner,473605
+Mahindra,135879,Diesel,Test Drive,1636361
+Mahindra,30349,Diesel,Third Owner,3361122
+Mahindra,62464,LPG,Test Drive,375577
+Mahindra,41991,CNG,Third Owner,603585
+Mahindra,24682,Petrol,Second Owner,999760
+Mahindra,141580,CNG,Fourth & Above Owner,1354567
+Mahindra,28324,CNG,Test Drive,3038231
+Mahindra,48882,CNG,Fourth & Above Owner,2770369
+Mahindra,180471,Petrol,Third Owner,3341960
+Changan,7507,LPG,Third Owner,3733305
+Changan,74978,Diesel,First Owner,644850
+Changan,140862,Diesel,Third Owner,2125857
+Changan,71339,LPG,Test Drive,1203989
+Changan,55303,LPG,Second Owner,1134069
+Changan,182809,Petrol,Third Owner,3946199
+Changan,8807,LPG,First Owner,758346
+Changan,95062,LPG,Second Owner,1546407
+Changan,156435,LPG,Third Owner,778579
+Changan,122218,CNG,First Owner,1167228
+Proton,194899,CNG,Fourth & Above Owner,3427382
+Proton,69383,Diesel,Second Owner,561079
+Proton,7568,CNG,First Owner,2715844
+Proton,28328,CNG,Fourth & Above Owner,320537
+Proton,161073,Diesel,Second Owner,879893
+Proton,163356,LPG,Third Owner,2130624
+Proton,109598,LPG,Second Owner,921545
+Proton,128718,Diesel,Fourth & Above Owner,3144479
+Proton,103156,Petrol,Third Owner,1330115
+Proton,188532,Petrol,Fourth & Above Owner,3181328
+Proton,169454,LPG,Fourth & Above Owner,903612
+Proton,95332,Petrol,Third Owner,3390938
+BMW,88474,CNG,Fourth & Above Owner,9367592
+BMW,12493,Petrol,Test Drive,8060948
+BMW,33326,Petrol,Fourth & Above Owner,5615040
+Mercedes,44428,CNG,Second Owner,4010298
+Mercedes,51716,CNG,Third Owner,19680185
+Mercedes,51019,LPG,First Owner,9120103
+Audi,77340,LPG,Third Owner,19010087
+Audi,47214,Diesel,First Owner,13304668
+Lexus,18863,Petrol,First Owner,8220209
+Lexus,33456,Petrol,Second Owner,6108820
+Lexus,97797,Diesel,Third Owner,8905559
+Porsche,106542,LPG,Fourth & Above Owner,16504972
+Porsche,77560,LPG,Second Owner,19707106
+Porsche,46258,Diesel,Test Drive,15748124
+Jaguar,34242,Diesel,First Owner,16744854
+Jaguar,16354,Diesel,Fourth & Above Owner,5463615
+Jaguar,98768,Petrol,Second Owner,17640965
+Land Rover,23255,Petrol,Fourth & Above Owner,13908374
+Land Rover,99430,Petrol,First Owner,4220169
+Volvo,6560,LPG,Fourth & Above Owner,4992468
+Volvo,33468,Petrol,Third Owner,16690651
+Renault,52923,Petrol,Third Owner,10283694
+Renault,99941,Petrol,Third Owner,9849625
+Renault,90234,Petrol,Second Owner,4185602
+Peugeot,108505,CNG,Second Owner,9540818
+Peugeot,77533,CNG,Fourth & Above Owner,17402108
+Peugeot,107600,CNG,Second Owner,5526153
+Fiat,107586,Petrol,Fourth & Above Owner,4719753
+Fiat,63082,Diesel,Fourth & Above Owner,15567132
+Skoda,77297,CNG,Test Drive,15881994
+Skoda,88223,CNG,Third Owner,15143862
+Mini,8329,CNG,Second Owner,17487188
+Mini,32673,Petrol,Test Drive,13974467
+Mini,84979,LPG,Test Drive,11739828
+Isuzu,40031,Diesel,First Owner,13479611
+Isuzu,87190,LPG,First Owner,19929211
+Isuzu,11716,LPG,Test Drive,8398602
+BYD,54300,Petrol,Second Owner,13933997
+BYD,41860,Petrol,Fourth & Above Owner,8075489
+Geely,54194,Petrol,First Owner,13010076
+Geely,118529,LPG,Second Owner,5255380
+Genesis,106405,CNG,Test Drive,16671931
+Genesis,102243,CNG,Fourth & Above Owner,4954620
+Genesis,114641,Diesel,Fourth & Above Owner,17070923
